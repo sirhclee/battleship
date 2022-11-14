@@ -1,0 +1,12 @@
+:root {
+    background: rgb(170, 204, 248);
+}
+
+.flex{ 
+    display:flex;    
+    /* margin: 15 -5px; */
+    gap: 25px; 
+    /* border: 1px solid black; */
+    border-radius: 2px; 
+}
+
